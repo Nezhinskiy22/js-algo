@@ -1,2 +1,2 @@
 # js-algo
-ava Script Math Algo Demo
+Java Script Math Algo Demo
